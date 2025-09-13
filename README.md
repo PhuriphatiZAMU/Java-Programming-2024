@@ -28,34 +28,6 @@ java Main
 
 Or use an IDE like **IntelliJ IDEA** or **Eclipse** to open and run the project.
 
-## 🧪 Testing
-
-This project includes unit tests using **JUnit 5**.
-
-* **Maven**:
-
-```xml
-<dependency>
-    <groupId>org.junit.jupiter</groupId>
-    <artifactId>junit-jupiter-api</artifactId>
-    <version>5.7.0</version>
-    <scope>test</scope>
-</dependency>
-```
-
-* **Gradle**:
-
-```groovy
-testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
-```
-
-Run the tests:
-
-```bash
-mvn test
-# or
-gradle test
-```
 
 ## 📄 File Structure
 
