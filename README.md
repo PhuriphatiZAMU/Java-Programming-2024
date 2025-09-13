@@ -67,3 +67,8 @@ gradle test
 
 * Suitable for beginners learning Java
 * Code can be reused and extended
+
+## 📬 Contact
+
+* Email: [phuriphati@example.com](mailto:phuriphati@example.com)
+* GitHub: [@PhuriphatiZAMU](https://github.com/PhuriphatiZAMU)
