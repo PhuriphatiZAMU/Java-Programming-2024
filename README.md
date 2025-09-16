@@ -1,7 +1,8 @@
 # 🎓 Java-Programming-2024
 
 > 📅 Academic Year: 2024  
-> 👨‍🎓 Student: Phuriphati Hemakul  
+> 👨‍🎓 Student: Phuriphati Hemakul
+> 🧑‍🏫 Instructor: Dr. Chanakarn Kingkaew
 > 🏫 Institution: Panyapiwat Institute of Management  
 > 💻 Course: Java Programming  
 > 🔤 Language: Java
